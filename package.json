@@ -46,7 +46,7 @@
     "react-popper": "^2.3.0",
     "react-use-websocket": "^4.2.0",
     "react-window": "^1.8.7",
-    "react-zoom-pan-pinch": "^3.0.5",
+    "react-zoom-pan-pinch": "^3.4.4",
     "twemoji": "^14.0.2"
   },
   "devDependencies": {
