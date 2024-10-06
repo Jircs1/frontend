@@ -19,7 +19,7 @@
     "@popperjs/core": "^2.11.6",
     "@react-hook/media-query": "^1.1.1",
     "@react-spring/web": "^9.6.1",
-    "@sentry/nextjs": "^7.13.0",
+    "@sentry/nextjs": "^7.75.0",
     "aos": "^2.3.4",
     "confetti-js": "^0.0.18",
     "d3-shape": "^3.1.0",
